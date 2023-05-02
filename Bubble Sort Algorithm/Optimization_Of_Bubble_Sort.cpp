@@ -37,7 +37,7 @@ int main()
         cout << number[i] << endl;
     }
 
-    cout<<&number[2]<<endl;
+
 
     return 0;
 }
