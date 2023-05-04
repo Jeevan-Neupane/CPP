@@ -1,0 +1,1 @@
+cout<<frequecy.size()<<endl;
