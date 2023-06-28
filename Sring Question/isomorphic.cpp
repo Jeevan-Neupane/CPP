@@ -29,7 +29,7 @@ int main()
 {
     string s1, s2;
     s1 = "egg";
-    s2 = "ada";
+    s2 = "add";
     bool value = isIsomorphic(s1, s2);
    
 
